@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Relatórios</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+  <div class="banner-container">
+    <div class="banner-content">
+      <a href="#" class="logo-text">WikiDelta</a>
+      <div class="logo-center">
+        <img src="logo.png" alt="Logo Delta" class="logo-img">
+      </div>
+      <div class="header-right">
+        <div id="cart-buttons-container" class="cart-buttons">
+          <button id="cart-button" title="Ver Carrinho">
+            <i data-lucide="shopping-cart" class="w-5 h-5"></i>
+            <span id="cart-count">0</span>
+          </button>
+          <button id="clear-cart" title="Limpar Carrinho">
+            <i data-lucide="trash-2" class="w-5 h-5"></i>
+          </button>
+        </div>
+        <button id="hamburger-menu" class="hamburger-menu">
+          <i data-lucide="menu" class="w-6 h-6"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-wrapper">
+    <nav id="sidebar" class="sidebar">
+      <div class="sidebar-container">
+        <div class="sidebar-title">
+          Categorias
+          <span id="total-relatorios">(0)</span>
+        </div>
+        <ul id="categorias-list" class="category-list"></ul>
+      </div>
+    </nav>
+
+    <main class="main-content">
+      <div class="content-header">
+        <h1 class="page-title">Catálogo de Relatórios</h1>
+        <div class="filters-container">
+          <select id="tipo-relatorio" class="filter-input">
+            <option value="essenciais">Relatórios Essenciais</option>
+            <option value="apoio">Relatórios de Apoio</option>
+          </select>
+          <input type="text" id="filtro-nome" class="filter-input" placeholder="Filtrar por Nome">
+          <input type="text" id="filtro-campos" class="filter-input" placeholder="Filtrar por Campos (separados por vírgula)">
+          <input type="text" id="filtro-parametros" class="filter-input" placeholder="Filtrar por Parâmetros (separados por vírgula)">
+          <div class="status-filter">
+            <button class="status-btn" data-status="todos">Todos</button>
+            <button class="status-btn novo" data-status="novo">Novos</button>
+            <button class="status-btn atualizado" data-status="atualizado">Atualizados</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="sort-container">
+        <label class="sort-label" for="sort-field">Ordenar por:</label>
+        <select id="sort-field" class="sort-select">
+          <option value="nome">Nome</option>
+          <option value="status">Status</option>
+          <option value="campos">Quantidade de Campos</option>
+          <option value="preco">Preço</option>
+        </select>
+        <button id="sort-order" class="sort-order-btn">
+          <i data-lucide="arrow-up" class="w-4 h-4"></i><span>A-Z</span>
+        </button>
+      </div>
+
+      <div id="results-info" class="results-info"></div>
+
+      <div class="table-container">
+        <table class="reports-table">
+          <thead>
+            <tr>
+              <th class="col-sistema">Sistema</th>
+              <th>Nome do Relatório</th>
+              <th>Campos</th>
+              <th class="col-parametros">Parâmetros</th>
+              <th>Status</th>
+              <th id="price-header">Preço</th>
+              <th>Ação</th>
+            </tr>
+          </thead>
+          <tbody id="relatorios-tbody"></tbody>
+        </table>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    <div class="footer-container">
+      © 2025 DeltaInf - Todos os direitos reservados
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

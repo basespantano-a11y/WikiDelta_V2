@@ -1,0 +1,582 @@
+[
+  {
+    "sistema": "Arrecadação",
+    "relatorios": [
+    {
+        "nome": "[DELTA] Certidão de ITBI - Essenciais",
+        "arquivo": "3126584.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Dívidas a prescrever",
+        "arquivo": "3101792.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Espelho Cadastral de Imóveis (Opções de BCI) v.3",
+        "arquivo": "3137029.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Betha] Histórico Financeiro do Parcelamento",
+        "arquivo": "2906032.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Betha] Relação de Parcelamentos",
+        "arquivo": "2906034.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Resumo das Dívidas",
+        "arquivo": "3105795.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Saldo da Dívida por Crédito Tributário",
+        "arquivo": "2879828.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Betha] Parcelamentos Cancelados",
+        "arquivo": "2948079.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Comparativo IPTU",
+        "arquivo": "3107971.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Relatório de Parcelas Arrecadadas",
+        "arquivo": "3138759.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Extrato Imóveis Sintético Execução Fiscal",
+        "arquivo": "3108856.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Extrato Débitos/Dívidas por Imóvel",
+        "arquivo": "3138055.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Listagem de alvarás",
+        "arquivo": "3099289.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] - Notificação de Dívida",
+        "arquivo": "1011195.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Listagem de alvarás - por CNAE",
+        "arquivo": "3100058.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "Certidão Negativa de Débitos - Econômicos",
+        "arquivo": "3149129.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Listagem de contribuintes com dívidas INSCOBRA",
+        "arquivo": "3121890.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "Saldo da Dívida por Crédito Tributário (Classificação)",
+        "arquivo": "3118682.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Composição do Parcelamento",
+        "arquivo": "3107972.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Relação de Transferências de Imóveis",
+        "arquivo": "3108016.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Resumo de Valores Arrecadados",
+        "arquivo": "1998756.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Habite-se",
+        "arquivo": "2947861.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Extrato do Imóvel - Essenciais",
+        "arquivo": "3152097.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Certidão Negativa de Débitos - Contribuintes",
+        "arquivo": "3154485.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Betha] Dívidas dos Contribuintes",
+        "arquivo": "[Betha] Dívidas dos Contribuintes.pdf",
+        "campos": [
+          "nome",
+          "codigo",
+          "valorJurosInscrito",
+          "valorMultaInscrito",
+          "valorCorrecaoInscrito",
+          "valorTributoInscrito",
+          "dataInscricao",
+          "abreviaturaCredito",
+          "valorTotal"
+        ],
+        "parametros": [
+          "dtInicio",
+          "dtFim",
+          "creditos",
+          "anos"
+        ],
+        "status": ""
+    },
+    {
+        "nome": "[Delta] - Certidão Negativa de Débitos (Imóveis)",
+        "arquivo": "3127287.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Carnê Guia de ITBI",
+        "arquivo": "3126169.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Alvará de Licença Localização e Funcionamento",
+        "arquivo": "3095383.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Relatório Comprovante de Restituição e Compensação",
+        "arquivo": "3102048.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Demonstrativo de Cálculo do IPTU",
+        "arquivo": "3121167.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "Certidão de Não Contribuintes",
+        "arquivo": "2914794.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Espelho do Cadastro Econômico",
+        "arquivo": "2695141.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Alvará Sanitário",
+        "arquivo": "2742270.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Parcelas Lançadas",
+        "arquivo": "1990880.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Betha] Extrato do Contribuinte",
+        "arquivo": "2905925.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Listagem de Alvarás por Período",
+        "arquivo": "2740944.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Recibo de Restituição/Compensação",
+        "arquivo": "3108817.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] - Listagem de imóveis",
+        "arquivo": "3118527.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Extrato Imóveis",
+        "arquivo": "3101715.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Dívidas por Contribuintes",
+        "arquivo": "3107973.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] - Extrato do Contribuinte Sintético",
+        "arquivo": "2918412.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Listagem de Imóveis Imunes/Isentos IPTU",
+        "arquivo": "3107976.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Descreve Débitos das Dívidas",
+        "arquivo": "3108813.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Listagem de econômicos",
+        "arquivo": "3117075.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Resumo das Dívidas Sintético",
+        "arquivo": "3144680.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Extrato de Restituição de Valores",
+        "arquivo": "3107975.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Resumo Arrecadação (Integração contábil)",
+        "arquivo": "3108824.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Relatório de Acordos",
+        "arquivo": "3122869.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Betha] Termo de Parcelamento",
+        "arquivo": "2947209.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Relação de Acordos por Parcelas Vencidas",
+        "arquivo": "3101927.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Notificação de Débitos",
+        "arquivo": "3147390.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[Delta] Certidão de Baixa de Atividade",
+        "arquivo": "2695514.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    },
+    {
+        "nome": "[DELTA] Demonstrativo de Cálculo",
+        "arquivo": "3101530.pdf",
+        "campos": [],
+        "parametros": [],
+        "status": "novo"
+    }
+]
+  },
+  {
+    "sistema": "Atendimento",
+    "relatorios": []
+  },
+  {
+    "sistema": "Contábil",
+    "relatorios": [
+      {
+        "nome": "Balanço Financeiro - Anexo 13",
+        "arquivo": "Anexo 13 - Balanço Financeiro.pdf",
+        "campos": ["INGRESSOS", "DISPÊNDIOS", "Receita Orçamentária (I)", "Despesa Orçamentária (VII)", "Especificação (Recursos Não Vinculados, Recursos Vinculados)"],
+        "parametros": ["Exercício Atual"],
+        "status": ""
+      },
+      {
+        "nome": "Nota de Anulação de Empenho",
+        "arquivo": "Nota de Anulação de Empenho.pdf",
+        "campos": ["Número da A.N.E.", "Data da Anulação", "Órgão", "Unidade", "Projeto/Atividade", "Natureza de Despesa", "Funcional", "Recurso", "Valor geral", "Credor", "CPF/CNPJ", "Saldo Empenho", "Especificação"],
+        "parametros": ["Município"],
+        "status": ""
+      },
+      {
+        "nome": "Nota de Empenho (Detalhe)",
+        "arquivo": "Nota de Empenho.pdf/Nota de Empenho - Modelo 2.pdf/[DELTA] Nota de Empenho com Itens.pdf",
+        "campos": ["Funcional", "Recurso", "UF", "Valor geral", "Número Licitação", "Especificação", "Fonte de Recurso", "Modal. Licitação", "Credor", "CPF/CNPJ", "Total (A)", "Total (B)", "Total Empenhado"],
+        "parametros": ["Município", "Data de Emissão", "Data homologação/contrato"],
+        "status": ""
+      },
+      {
+        "nome": "Relatório de Despesas Extras (por Credor)",
+        "arquivo": "Relatório de Despesas Extras (por agrupamento por credor).pdf",
+        "campos": ["CNPJ (Credor)", "Valor", "Resumo de Naturezas do Rendimento", "Natureza do rendimento", "Código de receita", "Valor retido", "Total Credor da Despesa Extra"],
+        "parametros": ["Sistema (Contábil)", "Usuário", "Emissão", "Protocolo"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Liquidações Emitidas",
+        "arquivo": "Relação de Liquidações Emitidas.pdf",
+        "campos": ["Emp", "Valor Liquid.", "Emissão", "Recurso", "Pro/Ativ", "Credor", "Valor Anulaç. Dot.", "DescontosLiq", "Saldo", "Funcional", "Org/Unid", "Natureza"],
+        "parametros": ["Período"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Liquidações Pagas e A pagar",
+        "arquivo": "Relação de Liquidações Pagas e A pagar.pdf",
+        "campos": ["Emp", "Valor Liquid.", "Emissão", "Recurso", "Pro/Ativ", "Credor", "Valor Anulaç. Dot.", "DescontosLiq", "Saldo", "Funcional", "Org/Unid", "Natureza", "Vencimento"],
+        "parametros": ["Período"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Alterações Orçamentárias",
+        "arquivo": "[DELTA] - Relação de Alterações Orçamentárias da Despesa com Resumo.pdf",
+        "campos": ["Data", "Atos", "De Abertura", "Autorizativo", "Tipo Recurso Créditos", "Valor", "Origens", "Tipo Recurso Valor (Origens)", "Anulação de dotação", "Crédito suplementar"],
+        "parametros": ["Data Inicial", "Data Final", "Município", "Entidade"],
+        "status": ""
+      },
+      {
+        "nome": "Balancete Bancário",
+        "arquivo": "[Delta] - Balancete Bancario com Ordem de Baixa.pdf",
+        "campos": ["Conta Bancária", "Saldo anterior", "Entradas", "Saídas", "Comprometido", "Saldo atual", "Saldo atual menos comprometido", "Recurso"],
+        "parametros": ["Entidade", "Data base", "Tipo do recurso", "Categoria do recurso", "Período"],
+        "status": ""
+      },
+      {
+        "nome": "Boletim de Movimentação Geral",
+        "arquivo": "[Delta] Boletim da Movimentação Geral - Movimentacoes por Credor.pdf",
+        "campos": ["Recurso", "Banco", "Conta", "Saldo Ant.", "Entradas", "Saídas", "Saldo Atual", "Credor", "Liquido Pago", "Total do recurso"],
+        "parametros": ["Município", "Data Boletim", "Período"],
+        "status": ""
+      },
+      {
+        "nome": "Empenhos por Contrato e Credor",
+        "arquivo": "[Delta] - Empenhos por Contrato e Credor.pdf",
+        "campos": ["Contrato", "Processo", "Empenho", "Emissão", "Ano", "Empenhado", "Liquidado", "Pago", "Anulado", "Saldo Emp.", "A Pagar (Empenho)", "Restos Liq.", "Restos Pagos", "Cancelados", "Total Liq.", "Total Pago", "A Pagar (Total)"],
+        "parametros": ["Usuário", "Sistema", "Versão"],
+        "status": ""
+      },
+      {
+        "nome": "Entradas por Centro de Custo",
+        "arquivo": "[Delta] - Entradas por Centro de Custo.pdf",
+        "campos": ["Centro de custo", "Fornecedor", "Valor Nota Fiscal", "N° Nota Fiscal", "Classe", "Descrição", "Unid.", "Quant", "Unitário R$", "Total R$", "Total por Classe", "Total por Centro de Custo", "Almoxarifado"],
+        "parametros": ["Período inicial", "Período final", "Entidade"],
+        "status": ""
+      },
+      {
+        "nome": "Recibo de Retenção de Imposto",
+        "arquivo": "[Delta] - Recibo de Retenção de Imposto por Credor.pdf",
+        "campos": ["Retenção (Tipo)", "Mês", "Ano", "Valor Base", "Alíquota", "Deduções", "Correção Monetária", "Multa", "Juros", "Valor Recolhido", "Liquidação Nº", "CNPJ", "Documento Fiscal"],
+        "parametros": ["Município"],
+        "status": ""
+      },
+      {
+        "nome": "Relatório Gerencial de Recursos com Liquidação - TCE-RS",
+        "arquivo": "[Delta] - Relatório Gerencial de Recursos com Liquidação - TCE-RS.pdf",
+        "campos": ["Recurso", "Bancos", "Empenhos", "Valor", "Tipo (ORDINARIO/ESTIMATIVO)", "Credor"],
+        "parametros": ["N/A (Relatório TCE-RS)"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Despesas (Detalhada)",
+        "arquivo": "[Delta] - Relação de Despesas Detalhada.pdf",
+        "campos": ["ESPECIFICAÇÕES (Descrição da despesa ou projeto/atividade)", "Natureza de Despesa", "Recurso", "ORÇADA", "ATUALIZADA", "EMPENHADA", "BLOQUEADA", "SALDO ATUAL", "Org/Unid Funcional"],
+        "parametros": ["Exercício", "Entidade", "Valores até (Mês/Período)"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Despesas a Suplementar - Interação da Folha",
+        "arquivo": "[Delta] - Relação de Despesas a Suplementar - Interação da Folha.pdf",
+        "campos": ["Funcional", "Vlr. a Empenhar", "Elemento", "Recurso", "Dotação", "Proj/Ativ", "Organograma", "Saldo Despesa", "Diferença", "Vlr a Suplementar", "Bloqueado"],
+        "parametros": ["Data Inicial", "Data Final", "Entidade", "Mês/Ano"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Retenções Realizadas",
+        "arquivo": "[Delta] - Relação de Retenções Realizadas.pdf",
+        "campos": ["RETENÇÕES (Tipo de retenção)", "RECURSO", "VALOR", "Banco", "Agência", "Conta", "Tipo (Orçamentária/Extraorçamentária)", "Total Orçamentário"],
+        "parametros": ["Período", "Entidade"],
+        "status": ""
+      },
+      {
+        "nome": "Declaração de Contas Bancárias (Conciliação)",
+        "arquivo": "[Delta] Conciliação Bancária RESOLUÇÃO 1.134-2020.pdf",
+        "campos": ["CONTA CONTÁBIL", "DESCRIÇÃO", "BCO", "AGÊNCIA", "CONTA BANCÁRIA"],
+        "parametros": ["Período (Data Inicial, Data Final)", "Entidade"],
+        "status": ""
+      }
+    ]
+  },
+  {
+    "sistema": "Contratos",
+    "relatorios": [
+      {
+        "nome": "Ata de Registro de Preços (ARP)",
+        "arquivo": "ARPS.pdf",
+        "campos": ["Processo Nº", "Protocolo Nº", "Pregão Eletrônico Nº", "Nome da Empresa Detentora", "CNPJ / CPF", "Nome do Representante", "CPF (Representante)", "Objeto", "LOTE", "Condições de Execução", "Cancelamento (Hipóteses)"],
+        "parametros": ["Número do Pregão", "Lei de Regência (Lei 14.133/2021)"],
+        "status": ""
+      },
+      {
+        "nome": "Nota de Solicitação de Compra (novo)",
+        "arquivo": "Nota de Solicitação de Compra (novo).pdf",
+        "campos": ["Organograma", "Solicitante", "Local de Entrega", "Justificativa", "Objeto", "Item Código", "Qtd.", "Unid.", "Especificação", "Preço Unit. Estimado", "Preço Total Estimado"],
+        "parametros": ["N/A"],
+        "status": "novo"
+      }
+    ]
+  },
+  {
+    "sistema": "Educação",
+    "relatorios": []
+  },
+  {
+    "sistema": "ISS",
+    "relatorios": []
+  },
+  {
+    "sistema": "NoPaper",
+    "relatorios": []
+  },
+  {
+    "sistema": "Pessoal",
+    "relatorios": [
+      {
+        "nome": "Demonstrativo das Diárias Concedidas",
+        "arquivo": "Demonstrativo das Diárias Concedidas.pdf",
+        "campos": ["Data Empenho", "Nº NE.", "Valor", "Beneficiário", "Finalidade", "Destino", "Data Saída", "Data Retorno", "Qtdade", "Nº Diária"],
+        "parametros": ["Período", "Entidade"],
+        "status": "extrado"
+      },
+      {
+        "nome": "Relatório Cadastral de Diárias",
+        "arquivo": "[Delta] - Relatório Cadastral de Diárias.pdf",
+        "campos": ["Nº Diária", "Data", "Valor", "Beneficiário", "Finalidade", "Organograma", "Município de Destino", "Qtde", "Valor Total", "Data Partida", "Data Retorno", "Hora Partida", "Hora Retorno", "Valor Unitário", "Matriculas"],
+        "parametros": ["Município", "Data de emissão"],
+        "status": ""
+      },
+      {
+        "nome": "Relação de Diárias a Empenhar",
+        "arquivo": "[Delta] - Relação de Diárias a Empenhar.pdf",
+        "campos": ["Data Diária", "Nº Diária", "Valor", "Beneficiário", "Finalidade", "Município de Destino", "Data Partida", "Data Retorno", "Hora Partorno", "Qtde", "Valor Unitário", "Valor Total", "Matriculas"],
+        "parametros": ["Período"],
+        "status": ""
+      }
+    ]
+  },
+  {
+    "sistema": "Saúde",
+    "relatorios": []
+  }
+]

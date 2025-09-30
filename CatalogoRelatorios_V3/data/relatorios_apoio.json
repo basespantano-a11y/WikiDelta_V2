@@ -1,0 +1,23 @@
+[
+  {
+    "sistema": "Consultoria",
+    "relatorios": [
+      {
+        "nome": "Análise de Performance",
+        "arquivo": "analise_performance.pdf",
+        "campos": ["KPIs", "Métricas", "Benchmark"],
+        "parametros": ["Período", "Departamento"],
+        "status": "novo",
+        "preco": 299.90
+      },
+      {
+        "nome": "Relatório Customizado",
+        "arquivo": "customizado.pdf",
+        "campos": ["Dados Personalizados", "Análises Específicas"],
+        "parametros": ["Cliente", "Período"],
+        "status": "atualizado",
+        "preco": 499.90
+      }
+    ]
+  }
+]
